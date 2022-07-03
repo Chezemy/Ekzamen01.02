@@ -126,3 +126,5 @@
 </table>
 
 <h2>Скриншот выполнения</h2>
+
+![image](https://user-images.githubusercontent.com/40539112/177040134-61c6de57-f3cb-4008-a975-2748cbc7a998.png)
