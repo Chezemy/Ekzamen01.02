@@ -101,7 +101,7 @@
 
 <tr>
 <td>Наличие прописных букв</td>
-<td>GFD!1frtgbn</td>
+<td>GFD$#1frtgbn</td>
 <td>True</td>
 </tr>
 
@@ -113,7 +113,7 @@
 
 <tr>
 <td>Наличие строчных букв</td>
-<td>*3IjHyGbGf</td>
+<td>#$3IjHyGbGf</td>
 <td>True</td>
 </tr>
 
@@ -125,3 +125,4 @@
 
 </table>
 
+<h2>Скриншот выполнения</h2>
