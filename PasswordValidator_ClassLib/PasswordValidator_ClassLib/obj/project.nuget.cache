@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "96CfJ2KiDunDn0SzDqSFoXo9Gzn4jh8yD1UgXgCgewxWAoyAVX6+SGmH9R9/pv04bJahhHECZTA7Si6Jp+nB/g==",
+  "success": true,
+  "projectFilePath": "D:\\Docs\\01.02\\PasswordValidator_ClassLib\\PasswordValidator_ClassLib\\PasswordValidator_ClassLib.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Flamecore\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Flamecore\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
